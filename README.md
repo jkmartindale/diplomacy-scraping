@@ -1,2 +1,2 @@
 # diplomacy-scraping
-vDiplomacy Web scraper built for a temporarily private project
+vDiplomacy Web scraper built for a private project.
